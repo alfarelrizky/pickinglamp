@@ -1,0 +1,56 @@
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.menu_form.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.monitoring.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.picking_lamp.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\bin\Debug\Project1.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\bin\Debug\Project1.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\bin\Debug\Project1.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\bin\Debug\Project1.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\bin\Debug\Project1.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP\Project1\obj\Debug\Project1.testlamp.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.pdb
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.menu_form.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.monitoring.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Resources.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.picking_lamp.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.testlamp.resources
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.exe.manifest
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.application
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.exe
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.xml
+C:\Users\alfarelrizqi\Documents\Visual Studio 2012\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Form2.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.menu_form.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.monitoring.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.picking_lamp.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.testlamp.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.application
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\bin\Debug\Project1.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.exe.manifest
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.application
+C:\Users\hp\Documents\Visual Studio 2015\Projects\PICKING LAMP - BACKUP\Project1\obj\Debug\Project1.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+[pick]
+server=localhost
+uid=root
+pwd=
+databases=picking_lamp_trial
+port=3306
+
+[scan]
+server_scan=localhost
+uid_scan=root
+pwd_scan=
+databases_scan=pis_2
+port_scan=3306
